@@ -9,8 +9,6 @@ def is_year_leap(year):
 # Выбор любого года для проверки
 input_year = 1985
 
-# Вызов функции и сохранение результата в переменную
 result = is_year_leap(input_year)
 
-# Вывод результата в консоль
 print(f'Год {input_year}: {result}')

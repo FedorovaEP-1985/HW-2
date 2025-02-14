@@ -3,4 +3,4 @@ def square(side):
 
 
 area = square(10)
-print(area)  # Вывод: 100
+print(area)
